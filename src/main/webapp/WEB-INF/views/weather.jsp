@@ -18,7 +18,7 @@
 
 	<form class="container">
 
-		<table>
+		<table class="table table-striped">
 			<tr>
 				<th>Day</th>
 				<th>Weather</th>

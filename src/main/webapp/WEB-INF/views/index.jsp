@@ -15,8 +15,8 @@
 
 <form class="container" action="/weather">
 
-<p><input type="number" min="19.50139" max="64.85694" step=".0000001" name="latitude">Latitude</p>
-<p><input type="number" min="-161.75583" max="-68.01197" step=".0000001" name="longitude">Longitude</p>
+<p><input type="number" min="29" max="64.85694" step=".0000001" name="latitude">Latitude</p>
+<p><input type="number" min="-161.75583" max="-90.01197" step=".0000001" name="longitude">Longitude</p>
 <button type="submit">Submit</button>
 
 </form>
